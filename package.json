@@ -1,0 +1,24 @@
+{
+  "name": "platzi---asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callbacks": "node ./src/callback/index.js",
+    "callbacks:challenge": "node ./src/callback/challenge.js",
+    "promise": "node ./src/promise/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VAB-8350/platzi---Asincronismo.git"
+  },
+  "author": "vabklb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VAB-8350/platzi---Asincronismo/issues"
+  },
+  "homepage": "https://github.com/VAB-8350/platzi---Asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
