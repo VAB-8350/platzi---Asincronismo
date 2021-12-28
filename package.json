@@ -6,7 +6,8 @@
   "scripts": {
     "callbacks": "node ./src/callback/index.js",
     "callbacks:challenge": "node ./src/callback/challenge.js",
-    "promise": "node ./src/promise/index.js"
+    "promise": "node ./src/promise/index.js",
+    "promise:challenge": "node ./src/promise/challenge.js"
   },
   "repository": {
     "type": "git",
